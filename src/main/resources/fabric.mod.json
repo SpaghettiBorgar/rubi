@@ -19,6 +19,8 @@
         "fabricloader": "~${fabricloader}",
         "minecraft": "${minecraft}",
         "java": ">=17",
-        "fabric-resource-loader-v0": "*"
+        "fabric-resource-loader-v0": "*",
+        "fabric-key-binding-api-v1": "*",
+        "fabric-api": ">=0.91"
     }
 }
